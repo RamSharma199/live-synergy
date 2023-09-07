@@ -1,0 +1,87 @@
+.maincontainor{
+    width: 100%;
+    font-family: sans-serif ;
+}
+
+.title{
+    text-align: center;
+  padding: 20px ;
+  color: #fff;
+
+    background-color: #3358FF;
+
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+th{
+    height: 60px;
+    background-color: teal;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+td{
+    text-align: center;
+    height: 50px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.btn{
+    padding:8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+}
+.addbtn{
+    background-color: #29A917;
+}
+.updatebutton{
+    background-color: #3358FF;
+}
+.deletebutton{
+    background-color: #FF5733;
+}
+tr:nth-child(even) td {
+    
+    background: rgb(222, 226, 222);
+    color: teal;
+    font-weight: bold;
+  }
+/*   
+Responsive for mobile  */
+@media screen and (max-width:768px){
+   
+   .maincontainor{
+    width: 100% ;
+    padding: 5px;
+   }
+   
+    .title{
+        display: none;
+    }
+
+    th{
+        font-size: 12px;
+        height: 40px;
+        padding: 5px;
+        
+    }
+td{
+    font-size: 10px;
+    height: 30px;
+}
+    .btn{
+        padding:3px 5px;
+        font-size: 10px;
+    }
+    .phone{
+        display: none;
+    }
+}
