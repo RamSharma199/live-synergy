@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/live-synergy/static/css/main.83a87eb5.css",
+    "main.js": "/live-synergy/static/js/main.02e46ef0.js",
+    "static/js/787.bc7d429a.chunk.js": "/live-synergy/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/live-synergy/index.html",
+    "main.83a87eb5.css.map": "/live-synergy/static/css/main.83a87eb5.css.map",
+    "main.02e46ef0.js.map": "/live-synergy/static/js/main.02e46ef0.js.map",
+    "787.bc7d429a.chunk.js.map": "/live-synergy/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83a87eb5.css",
+    "static/js/main.02e46ef0.js"
+  ]
+}
